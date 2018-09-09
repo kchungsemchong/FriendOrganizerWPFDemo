@@ -18,6 +18,7 @@ namespace FriendOrganizer.UI
 		private void MainViewModel_Loaded(object sender, RoutedEventArgs e)
 		{
 			_viewModel.Load();
+
 		}
 	}
 }
